@@ -1,5 +1,5 @@
-<img width="606" height="1280" alt="manual01" src="https://github.com/user-attachments/assets/4a5a45a6-9da5-4d62-9cc6-00c689fdd49a" />
-<img width="606" height="1280" alt="manual02" src="https://github.com/user-attachments/assets/bcc877c4-9acf-4f8b-9901-386507947892" />
+<img width="180" height="420" alt="manual01" src="https://github.com/user-attachments/assets/4a5a45a6-9da5-4d62-9cc6-00c689fdd49a" />
+<img width="180" height="420" alt="manual02" src="https://github.com/user-attachments/assets/bcc877c4-9acf-4f8b-9901-386507947892" />
 # Manuales Rápidos
 
 App para generar manuales con fotos y descripciones simples, paso a paso (PASO 1, PASO 2...).
